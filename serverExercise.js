@@ -9,13 +9,13 @@ var PORT1 = 7500;
 function handleRequest(request, response) {
 
   // Send the below string to the client when the user visits the PORT URL
-  response.end("You're a g");
+  response.end("You're money dude");
 }
 
 function handleRequest1(request, response) {
 
   // Send the below string to the client when the user visits the PORT URL
-  response.end("You're a chump");
+  response.end("Who are you? Martin Shkreli?");
 }
 
 // Use the Node HTTP package to create our server.
